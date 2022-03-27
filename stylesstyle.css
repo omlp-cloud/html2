@@ -1,0 +1,114 @@
+@media only screen and (max-width: 700px) {
+  li {
+    background-color: white;
+  }
+    
+ lh {
+     background-color: white;
+    }
+    
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    background-color: #ffd700ff;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+
+.contain{
+width: 100%;
+height: 100%;
+background-position: center;
+background-image: url("g4052.png");
+background-size: cover;
+float: left;
+position: absolute;
+}
+
+.colorss{
+ 
+    color: black;
+}
+
+a:link{
+    color: white;
+}
+
+.mail{
+        font-family: 'Encode Sans SC', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    color: black;
+
+}
+
+
+.contact{
+    position: relative;
+    padding: 0;
+    padding-right: 12px;
+    float: right;
+    top: 95%;
+    width: 15%;
+}
+
+span{
+    font-size: 12px;
+    float: right;
+   padding: 0;
+    margin: 0;
+}
+
+.con-box{
+    float: right;
+}
+
+a{
+    padding:0;
+    margin: 0;
+}
+
+
+.notices{
+        font-family: 'Share Tech Mono', monospace;
+}
+
+.noticesalt{
+        font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'IBM Plex Mono', monospace;
+}
+   
+.sideb{
+    position: relative;
+    float: left;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 200;
+    
+display: none;
+}
+
+
+ul{
+    margin-top: 20px;
+
+}
+
+li{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 200;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+lh{
+           font-family: 'Nanum Gothic Coding', monospace !important;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 30px;
+}
